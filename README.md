@@ -8,4 +8,4 @@ An attempt to write a simple DFA in Rust. Code is translated from [here](https:/
 
 ## Repo's DFA
 
-![State Diagram](assets/dfa-cropped.pdf)
+![State Diagram](assets/dfa-cropped-1.png)
